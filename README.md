@@ -1,8 +1,8 @@
 # RSS-Crawler
 
-This is just a simple helper RSS crawler for personal use.
+This is just a simple helper RSS converter for personal use.
 
-This is not a crawler which should be run in scheduling. It works without cron. And it's not design to crawl and store data to local.
+This is not a clawer which should be run in scheduling. It works without cron. And it's not design to crawl and store data to local.
 
 Let me tell you a story. I'm (currently) a Windows Phone user, since sooooo many developer doesn't want to and have no plan to make app for WP device, I can only use webapp for alternative.
 
